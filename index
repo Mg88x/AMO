@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A.M.O. - Asociación de Magos del Oeste</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>A.M.O.</h1>
+            <p class="subtitle">Bienvenido a la Asociación de Magos del Oeste.</p>
+        </header>
+        <main>
+            <p>Esta ONG fue fundada en el año 2016 por jugadores de Magic The Gathering para promoción de actividades relacionadas al producto en GBA Oeste y alrededores, así también para promover los valores societarios, cooperativos y deportivos del mismo. Creemos que jugar Magic The Gathering colabora a desarrollar mejores individuos para la sociedad. No permitimos comportamientos ofensivos e inadecuados hacia el grupo, ni el proselitismo político y/o religioso.</p>
+            <p>En este grupo de WhatsApp está permitido:</p>
+            <ol>
+                <li>Debatir sobre MTG.</li>
+                <li>Informar sobre eventos y actividades de MTG o relacionados.</li>
+                <li>Publicitar, vender o subastar productos de MTG.</li>
+            </ol>
+            <p>Todo esto siempre con el debido respeto, ubicación y comportamiento necesario.</p>
+        </main>
+    </div>
+</body>
+</html>
+
